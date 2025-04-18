@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/Ex1_List4/Ex1_List4.iml" filepath="$PROJECT_DIR$/LP_Lista_04/Ex1_List4/Ex1_List4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/Ex2_List4/Ex2_List4.iml" filepath="$PROJECT_DIR$/LP_Lista_04/Ex2_List4/Ex2_List4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/Ex3_List4/Ex3_List4.iml" filepath="$PROJECT_DIR$/LP_Lista_04/Ex3_List4/Ex3_List4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/Ex6_List4/Ex6_List4.iml" filepath="$PROJECT_DIR$/LP_Lista_04/Ex6_List4/Ex6_List4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_Lista_04/Ex9_List4/Ex9_List4.iml" filepath="$PROJECT_DIR$/LP_Lista_04/Ex9_List4/Ex9_List4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Listas de Exercícios.iml" filepath="$PROJECT_DIR$/.idea/Listas de Exercícios.iml" />
     </modules>
   </component>
